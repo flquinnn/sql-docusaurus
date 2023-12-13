@@ -16,14 +16,14 @@ const config = {
   favicon: 'img/Q.ico',
 
   // Set the production url of your site here
-  url: 'https://sql4u.netlify.app/',
+  url: 'https://sql4u.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/flquinnn',
+  baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'quinnn', // Usually your GitHub org/user name.
-  projectName: 'flquinnn', // Usually your repo name.
+  projectName: 'sql4u', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
