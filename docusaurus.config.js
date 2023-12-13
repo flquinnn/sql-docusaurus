@@ -85,7 +85,7 @@ const config = {
           {to: '/about', label: 'About', position: 'left'},
 
           {
-            href: '#',
+            href: 'https://github.com/flquinnn',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'Certificates',
-                href: '#',
+                href: 'https://github.com/flquinnn',
               },
             ],
           },
@@ -113,11 +113,11 @@ const config = {
             items: [           
               {
                 label: 'Facebook',
-                href: '#',
+                href: 'https://github.com/flquinnn',
               },
               {
                 label: 'Twitter',
-                href: '#',
+                href: 'https://github.com/flquinnn',
               },
             ],
           },
@@ -130,7 +130,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: '#',
+                href: 'https://github.com/flquinnn',
               },
             ],
           },
