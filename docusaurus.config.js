@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'quinnn', // Usually your GitHub org/user name.
-  projectName: 'flquinnn', // Usually your repo name.
+  projectName: 'learnsql4u', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
