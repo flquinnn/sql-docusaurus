@@ -1,0 +1,47 @@
+---
+sidebar_position: 3
+---
+
+# SQL WHERE Clause
+
+## The SQL WHERE Clause
+
+The `WHERE` clause is used to filter records.
+
+It is used to extract only those records that fulfill a specified condition.**[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+
+```text title="Example"
+SELECT * FROM Customers
+WHERE Country='Mexico';
+```
+
+## Syntax
+
+```
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+```
+
+## Text Fields vs. Numeric Fields
+
+SQL requires single quotes around text values (most database systems will also allow double quotes).
+
+However, numeric fields should not be enclosed in quotes:
+
+```text title="Example"
+SELECT * FROM Customers
+WHERE CustomerID=1;
+```
+
+## Operators in The WHERE Clause
+
+You can use other operators than the `=` operator to filter the search.
+
+Below is a selection from the ''Customers'' table used in the examples:
+
+```text title="Example"
+SELECT * FROM Customers
+WHERE CustomerID > 80;
+```
+

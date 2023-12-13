@@ -1,0 +1,14 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: hsl(180, 55%, 87%);
+}
+html[data-theme='dark'] .features {
+  background-color: rgb(54, 98, 125);
+}
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
