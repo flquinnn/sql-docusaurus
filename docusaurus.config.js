@@ -19,11 +19,11 @@ const config = {
   url: 'https://sql4u.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/flquinnn',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'quinnn', // Usually your GitHub org/user name.
-  projectName: 'sql4u', // Usually your repo name.
+  projectName: 'flquinnn', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -71,7 +71,7 @@ const config = {
         title: 'LEARNing SQL',
         logo: {
           alt: 'LEARNing SQL Logo',
-          src: 'img/Q.png',
+          src:'img/Q.png',
         },
         items: [
           {
