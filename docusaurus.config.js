@@ -80,9 +80,9 @@ const config = {
             position: 'left',
             label: 'Course',
           },
-          {to: '/certificate', label: 'Certificates', position: 'left'}, 
-          {to: '/blog', label: 'Blog', position: 'left'},         
-          {to: '/about', label: 'About', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/intro', label: 'Certificates', position: 'left'},                 
+          {to: '/blog', label: 'About', position: 'left'},
 
           {
             href: 'https://github.com/flquinnn',
