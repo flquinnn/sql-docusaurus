@@ -22,8 +22,8 @@ const config = {
   baseUrl: '/flquinnn',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'flquinnn', // Usually your GitHub org/user name.
-  projectName: 'buildsql', // Usually your repo name.
+  organizationName: 'quinnn', // Usually your GitHub org/user name.
+  projectName: 'flquinnn', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
